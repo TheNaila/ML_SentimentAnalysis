@@ -6,7 +6,7 @@ Date: Fall 2022
 
 ### Abstract
 
-Using a combination of built-in Python library and my own functions, I devised a program to do sentiment analysis whereby using Twitter data, the model can predict whether or not the sentiment is positive, negative, uncertain, or litigious. 
+Using a combination of built-in Python library and my own functions, I devised a program to do sentiment analysis. Using Twitter data, the model can predict whether or not the sentiment is positive, negative, uncertain, or litigious. 
 
 To prep the data to be usable by an ML algorithm like Support Vector Machines I clean the data by using libraries to convert emojies, and emoticons to words. They aren't in a format usable by an algorithm but they give a lot of insight about the tone of the text. 
 
