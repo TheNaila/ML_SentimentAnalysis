@@ -16,5 +16,3 @@ The last feature engineering step that I take is to use CountVectorizer to creat
 
 Finally, I use an SVC algorithm to classify the sentiment of the data, followed by other algorithms to gage the results across different classification algorithms. 
 
-Note: If you are going to run this on your own computer, please ensure that you have the csv files in the same folder as the Jupyter Notebook. This program is very computationally expensive. But with the files, it should take roughly 10 minutes. 
-
