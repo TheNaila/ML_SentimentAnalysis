@@ -1,6 +1,7 @@
 # Sentiment Analysis 
 
 Author: Naila Thevenot
+
 Date: Fall 2022
 
 ### Abstract
